@@ -15,7 +15,7 @@ print("_" * 50)
 
 print("Developed by Harsha")
 try:
-    for port in range(1,8500):
+    for port in range(1,65535):
         s = socket.socket(socket.AF_INET ,socket.SOCK_STREAM)
         socket.setdefaulttimeout(1)
         result = s.connect_ex((target,port))
