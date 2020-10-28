@@ -12,6 +12,8 @@ print("_" * 50)
 print("scanning targets "+target)
 print("time started at "+str(datetime.now()))
 print("_" * 50)
+
+print("Developed by Harsha")
 try:
     for port in range(1,8500):
         s = socket.socket(socket.AF_INET ,socket.SOCK_STREAM)
