@@ -2,11 +2,14 @@
 bulid for open ports scanning of any ip address
 
 
-# --------------------------------Configure-------------------------------
+# --------------------------------Configure & Run-------------------------------
                   
                   python3 scanner.py <ip>
+                  
+                  
+                  written on python3
                    
-# --------------------------------output----------------------------------
+# --------------------------------Output----------------------------------
 
 time started at 2020-10-28 23:46:36.669413
 __________________________________________________
@@ -17,7 +20,7 @@ port 139 is open
 exiting programme
 
 
-# --------------------------------install---------------------------------
+# --------------------------------Install---------------------------------
 
 Clone the repository git clone https://github.com/harsha2001/Simple_openport_scanner.git
 
