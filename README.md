@@ -3,7 +3,8 @@ bulid for open ports scanning of any ip address
 
 
 --------------------------------Configure-------------------------------
-python3 scanner.py <ip>
+                  
+                  python3 scanner.py <ip>
 
 --------------------------------output----------------------------------
 
