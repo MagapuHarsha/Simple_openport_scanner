@@ -7,7 +7,7 @@ bulid for open ports scanning of any ip address
                   python3 scanner.py <ip>
                   
                   
-                  written on python3
+                  written using python3
                    
 # -------------------------Output----------------------------
 
