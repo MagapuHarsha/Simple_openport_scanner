@@ -25,4 +25,5 @@ exiting programme
 Clone the repository git clone https://github.com/harsha2001/Simple_openport_scanner.git
 
 
-Install requirements.txt pip install -r requirements.txt
+
+Command to Install requirements.txt: pip install -r requirements.txt
